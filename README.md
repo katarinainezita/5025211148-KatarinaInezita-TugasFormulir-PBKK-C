@@ -17,6 +17,14 @@ Proyek ini bertujuan untuk membuat halaman formulir dan halaman hasil isian deng
 5. Terdapat satu field yang memungkinkan pengguna menginputkan nilai double antara 2.50 hingga 99.99.
 6. Sistem akan memberikan flash message "success" jika formulir berhasil diinputkan sesuai dengan ketentuan.
 
+## Cara Menjalankan Program
+### Langkah 1 : Clone Repositori
+`git clone `
+### Langkah 2 : Jalankan server pengembangan
+`php artisan serve`
+### Langkah 3 : Buka Aplikasi di Web Browser
+`http://127.0.0.1:8000/`
+
 
 ## Tampilan Hasil Proyek
 ### Tampilan Awal Proyek
