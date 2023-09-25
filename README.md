@@ -24,4 +24,4 @@ Proyek ini bertujuan untuk membuat halaman formulir dan halaman hasil isian deng
 
 
 ## Link Video Youtube
-![Youtube](https://youtu.be/5ST5dbEL5BI)
+[![Teks Tautan Video](https://img.youtube.com/vi/5ST5dbEL5BI/mqdefault.jpg)](https://youtu.be/5ST5dbEL5BI)
