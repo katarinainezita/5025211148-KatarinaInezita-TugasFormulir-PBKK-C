@@ -1,5 +1,12 @@
 # Pemberian Tugas - Formulir di Laravel
 
+Nama : Katarina Inezita Prambudi
+
+NRP : 5025211148
+
+Kelas : PBKK C
+
+
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk membuat halaman formulir dan halaman hasil isian dengan beberapa ketentuan berikut:
 
