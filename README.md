@@ -19,9 +19,9 @@ Proyek ini bertujuan untuk membuat halaman formulir dan halaman hasil isian deng
 
 
 ## Tampilan Hasil Proyek
-https://github.com/katarinainezita/5025211148-KatarinaInezita-TugasFormulir-PBKK-C/assets/109232320/01925f4a-283b-4fd8-b3b6-1d2477caedac
-https://github.com/katarinainezita/5025211148-KatarinaInezita-TugasFormulir-PBKK-C/assets/109232320/a9120e0a-bffa-4c56-9a85-4e4899031c1a
+![image][https://github.com/katarinainezita/5025211148-KatarinaInezita-TugasFormulir-PBKK-C/assets/109232320/01925f4a-283b-4fd8-b3b6-1d2477caedac]
+![image][https://github.com/katarinainezita/5025211148-KatarinaInezita-TugasFormulir-PBKK-C/assets/109232320/a9120e0a-bffa-4c56-9a85-4e4899031c1a]
 
 
 ## Link Video Youtube
-[!Youtube][https://youtu.be/5ST5dbEL5BI]
+![Youtube][https://youtu.be/5ST5dbEL5BI]
